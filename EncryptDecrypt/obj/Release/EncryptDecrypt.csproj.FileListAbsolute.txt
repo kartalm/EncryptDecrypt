@@ -1,0 +1,8 @@
+C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.exe.config
+C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.exe
+C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.frmEncryptDecrypt.resources
+C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.Properties.Resources.resources
+C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.csproj.GenerateResource.Cache
+C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.exe
+D:\Backup\Personal.Backup.Data\Projects\Github\OS\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.exe.config
+D:\Backup\Personal.Backup.Data\Projects\Github\OS\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.exe
