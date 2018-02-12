@@ -7,3 +7,6 @@ C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Debug\
 C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.GenerateResource.Cache
 C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
 C:\Users\mehmet.kartal.EAEGROUP\Desktop\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+D:\Backup\Personal.Backup.Data\Projects\Github\OS\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+D:\Backup\Personal.Backup.Data\Projects\Github\OS\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+D:\Backup\Personal.Backup.Data\Projects\Github\OS\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
